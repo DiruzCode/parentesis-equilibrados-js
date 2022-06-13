@@ -27,7 +27,17 @@ Ejemplos:
 
 Prueba
 
-`
-node index.js
+`node index.js`
 
-`
+
+Resultado
+
+- {[()]} --> Equilibrado
+- {[(])} --> No equilibrado
+- {{[[(())]]}} --> Equilibrado
+- {[]()} --> Equilibrado
+- {{[[(())]]}}] --> No equilibrado
+- {{[[(())]]} --> No equilibrado
+- (){[]} --> Equilibrado
+
+
