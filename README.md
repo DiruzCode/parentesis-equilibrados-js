@@ -15,13 +15,13 @@ Dadas una cadena de paréntesis, determine si la secuencia está equilibrada.
 
 Ejemplos:
 
-{[()]} está equilibrado
-{[(])} no está equilibrado
-{{[[(())]]}} está equilibrado
-{[]()} está equilibrado
-{{[[(())]]}}] no está equilibrado
-{{[[(())]]} no está equilibrado
-(){[]} está equilibrado
+- {[()]} está equilibrado
+- {[(])} no está equilibrado
+- {{[[(())]]}} está equilibrado
+- {[]()} está equilibrado
+- {{[[(())]]}}] no está equilibrado
+- {{[[(())]]} no está equilibrado
+- (){[]} está equilibrado
 
 ---
 
